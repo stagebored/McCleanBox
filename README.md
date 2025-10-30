@@ -21,62 +21,62 @@ runoff stations throughout the Ness, Lochy, Spey and Aberdeenshire Dee basins.
 This work was pursued with remarkable vigour until 1949 and was partly instrumental in establishing the UK Inland Water Survey in 1935. The flow record on the Dee commenced in 1929 and, still operational today, is one of the longest continuous runoff records in the UK. McClean’s data were collected at a time when many of the catchments were little modified by human interventions. They constitute a unique record of the natural runoff regime for this part of the British uplands and include two of the largest UK floods ever reported.
 </i>
 <br>
-<sub>Alan Werritty & Andrew Black (18 Dec 2024): W. N. McClean – pioneer of
-Scottish hydrometry <br>
-
+<sub>
+Alan Werritty & Andrew Black (18 Dec 2024): W. N. McClean – pioneer of Scottish hydrometry <br>
 https://discovery.dundee.ac.uk/ws/portalfiles/portal/142939056/W._N._McClean_pioneer_of_Scottish_hydrometry.pdf<br>
-Hydrological Sciences Journal, DOI: 10.1080/02626667.2024.2435537</sub>
+Hydrological Sciences Journal, DOI: 10.1080/02626667.2024.2435537
+</sub>
 
 # Dev Info
 
 
 ### potentially working functions
--recording rotations over time (time check needed)
--clock display (clock setting needed, date not working)
--some of the ui
+- recording rotations over time (time check needed)
+- clock display (clock setting needed, date not working)
+- some of the ui
 
 ### todo
--ui disable scrolling (almost) globally
--ui sort formatting of tabs
--skip count check (does it miss counts when busy?)
--set clock (ideally w/ wifi NTP)
--velocity calculation
--depth  
--distance input 
--flow calculation (mid section)
--flow calculation (mean section)
--gauging sites 
--data structure (list/JSON?)
--insert point 
--move between points 
--verticals other than 0.4
--field testing 
--inclement weather testing
--delete points
--file saving
--settings [ui / kit / calculation]
--distance polarity check (in ui)
--table view
--graphs
--monospace font
--stress testing / optimisation / checking for bodges, nonsense, leftovers from testing
--license
--working with physical keypad
--method for getting files off (USB mass storage?)
+- ui disable scrolling (almost) globally
+- ui sort formatting of tabs
+- skip count check (does it miss counts when busy?)
+- set clock (ideally w/ wifi NTP)
+- velocity calculation
+- depth  
+- distance input 
+- flow calculation (mid section)
+- flow calculation (mean section)
+- gauging sites 
+- data structure (list/JSON?)
+- insert point 
+- move between points 
+- verticals other than 0.4
+- field testing 
+- inclement weather testing
+- delete points
+- file saving
+- settings [ui / kit / calculation]
+- distance polarity check (in ui)
+- table view
+- graphs
+- monospace font
+- stress testing / optimisation / checking for bodges, nonsense, leftovers from testing
+- license
+- working with physical keypad
+- method for getting files off (USB mass storage?)
 
 ### wish list
--alt UI for stupid cold wet fingers
--allow recording of stage values, possibly logger download, rain gauge, site survey etc. 
--translation
--imperial units
--working on other arduino/pi devices (seperate UI from function)
--custom rugged device
--DIY impeller finished (seperate project)
--Calibration mode
--reverse flow detection(DIY impeller only)
--previous gauging / rating view for sites 
--data syncing 
--working with OEM or custom fancy sensors (such as Electro Magnetic)
+- alt UI for stupid cold wet fingers
+- allow recording of stage values, possibly logger download, rain gauge, site survey etc. 
+- translation
+- imperial units
+- working on other arduino/pi devices (seperate UI from function)
+- custom rugged device
+- DIY impeller finished (seperate project)
+- Calibration mode
+- reverse flow detection(DIY impeller only)
+- previous gauging / rating view for sites 
+- data syncing 
+- working with OEM or custom fancy sensors (such as Electro Magnetic)
 
 
 ### tested with following impellers
