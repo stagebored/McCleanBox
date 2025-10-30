@@ -23,16 +23,17 @@ This work was pursued with remarkable vigour until 1949 and was partly instrumen
 <br>
 <sub>Alan Werritty & Andrew Black (18 Dec 2024): W. N. McClean – pioneer of
 Scottish hydrometry <br>
-Hydrological Sciences Journal, DOI: 10.1080/02626667.2024.2435537
-https://discovery.dundee.ac.uk/ws/portalfiles/portal/142939056/W._N._McClean_pioneer_of_Scottish_hydrometry.pdf</sub>
+
+https://discovery.dundee.ac.uk/ws/portalfiles/portal/142939056/W._N._McClean_pioneer_of_Scottish_hydrometry.pdf<br>
+Hydrological Sciences Journal, DOI: 10.1080/02626667.2024.2435537</sub>
 
 # Dev Info
 
 
 ### potentially working functions
- -recording rotations over time (time check needed)
- -clock display (clock setting needed, date not working)
- -some of the ui
+-recording rotations over time (time check needed)
+-clock display (clock setting needed, date not working)
+-some of the ui
 
 ### todo
 -ui disable scrolling (almost) globally
