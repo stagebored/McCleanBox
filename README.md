@@ -2,11 +2,14 @@
 - blame: f.leask@dundee.ac.uk
 
 ## M5 Tough based counter box for impeller river gauging kits. 
+
 - Still very much a work in progress
 - Basic: Timed Counter only
 - Full: River flow computation & basic analysis.
 - Can possibly be used for certain field notes (if I get round to it).
 
+<img width="578" height="502" alt="Screenshot 2025-10-30 at 20 55 33" src="https://github.com/user-attachments/assets/c378faa8-64c8-4623-bfe4-97f779d24db0" /><br>
+M5 Tough & DIY impeller<br>
 <img width="578" height="435" alt="Screenshot 2025-10-30 at 11 54 06" src="https://github.com/user-attachments/assets/71762f41-f159-4026-94f3-fc3779e51b42" /><br>
 Various screens and themes. 
 
@@ -76,6 +79,7 @@ Hydrological Sciences Journal, DOI: 10.1080/02626667.2024.2435537
 - license
 - working with physical keypad
 - method for getting files off (USB mass storage?)
+- internal or rugged external power source (will run off a USB power bank but I have had sparky experiences using them in typical Scottish weater)
 
 ### wish list
 - alt UI for stupid cold wet fingers
@@ -108,6 +112,7 @@ Hydrological Sciences Journal, DOI: 10.1080/02626667.2024.2435537
 
 
 ### may contain traces of, or inspiration from:
+- https://docs.m5stack.com/en/core/tough
 - https://github.com/bareboat-necessities/bbn-m5stack-tough
 - https://github.com/WhiteBr0wnie-24/EEZ-Studio-Arduino-Starter
 - https://fonts.google.com/specimen/Roboto+Mono?lang=en_Latn&categoryFilters=Appearance:%2FMonospace%2FMonospace
