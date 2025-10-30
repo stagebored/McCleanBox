@@ -8,7 +8,7 @@
 - Can possibly be used for certain field notes (if I do things).
 - Also possibly an anemometer?
 
-<img width="578" height="435" alt="Screenshot 2025-10-30 at 11 54 06" src="https://github.com/user-attachments/assets/71762f41-f159-4026-94f3-fc3779e51b42" />
+<img width="578" height="435" alt="Screenshot 2025-10-30 at 11 54 06" src="https://github.com/user-attachments/assets/71762f41-f159-4026-94f3-fc3779e51b42" /><br>
 Various screens and themes. 
 
 ### Background
