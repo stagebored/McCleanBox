@@ -21,12 +21,12 @@ runoff stations throughout the Ness, Lochy, Spey and Aberdeenshire Dee basins.
 This work was pursued with remarkable vigour until 1949 and was partly instrumental in establishing the UK Inland Water Survey in 1935. The flow record on the Dee commenced in 1929 and, still operational today, is one of the longest continuous runoff records in the UK. McClean’s data were collected at a time when many of the catchments were little modified by human interventions. They constitute a unique record of the natural runoff regime for this part of the British uplands and include two of the largest UK floods ever reported.
 </i>
 <br>
-<sub>- Alan Werritty & Andrew Black (18 Dec 2024): W. N. McClean – pioneer of
+<sub>Alan Werritty & Andrew Black (18 Dec 2024): W. N. McClean – pioneer of
 Scottish hydrometry <br>
 Hydrological Sciences Journal, DOI: 10.1080/02626667.2024.2435537
 https://discovery.dundee.ac.uk/ws/portalfiles/portal/142939056/W._N._McClean_pioneer_of_Scottish_hydrometry.pdf</sub>
 
-#Development Info
+# Dev Info
 
 
 ### potentially working functions
