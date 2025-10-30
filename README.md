@@ -11,7 +11,7 @@
 
 tbc
 
-### Captain William Newsam McClean
+### Captain McClean
 
 <i>
 W. N. McClean was a pioneer in the development and publication of river flow measurements in Scotland using current metering and chart recorders to produce runoff records for the River Garry, 1913–1915. In 1929 McClean began to establish a much more extensive hydrometric network comprising rainfall and
