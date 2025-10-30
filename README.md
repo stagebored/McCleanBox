@@ -8,6 +8,9 @@
 - Can possibly be used for certain field notes (if I do things).
 - Also possibly an anemometer?
 
+<img width="578" height="435" alt="Screenshot 2025-10-30 at 11 54 06" src="https://github.com/user-attachments/assets/71762f41-f159-4026-94f3-fc3779e51b42" />
+Various screens and themes. 
+
 ### Background
 
 This project started off as an idea revitalise / make impeller gauging kit for minimal cost for UoD. Initially it was a timer and counter board - this didn't work because the timer switched the negative circuit. By the time I had acquired a relay to fix it I had also bought an M5 Tough and started making a UI and program in UiFlow 2. At the same time with a bit of TLC I had got some old gauging kit working (one dating from 1974!) for an upcoming field trip, and while there was no longer a need for this project at work I continued working on it in my own time, alongside a related project to make a DIY impeller from off the shelf parts - the main ones being a reed switch and an RC boat prop. 
